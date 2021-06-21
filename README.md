@@ -45,12 +45,6 @@
   - Assume you're putting books on a shelf based on their height. In this situation, we can maintain the taller volumes on the left and the shorter books on the right, or we can do the opposite.
 
 
-- **Searching** Algorithm to Find a Book in a Shelf
-  - Assume you wish to look for a certain book on a shelf. The books in the self are not organized in any particular way. How would you go about finding the book in the least amount of time? DSA solves to this problem.
-- Shortest Path Finding Algorithms to Find the Shortest Path in Google Map
-### Revise the concepts of C++.
-- **Completed**
-
 ### Explore more about Standard Template Library(STL).
 - Algorithms
   - Non Manipulative Algorithm
