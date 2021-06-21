@@ -14,13 +14,7 @@
   - **Non-primitive**
     - Array
     - Files
-    - Lists
-      - **Non-linear**
-        -  Tree
-        -  Graph
-      - **Linear**
-        - Stack
-        - Queue   
+    - Lists 
 
 ### What is Abstract Data Types?
 - **ADTs** are like **user-defined data types**, in that they **describe operations on values** using functions without defining what is within the function or how the actions are executed.
