@@ -38,6 +38,8 @@
 - **Sorting** Algorithm to Arrange Books in the Shelf
   - Assume you're putting books on a shelf based on their height. In this situation, we can maintain the taller volumes on the left and the shorter books on the right, or we can do the opposite.
 
+**### Revise the concepts of C++.
+**Completed**
 
 ### Explore more about Standard Template Library(STL).
 - Algorithms
